@@ -1,4 +1,7 @@
 # Angular8MeanstackAngularMaterial
+### Para que la aplicacion funcione tenenemos que cambiar el endpoint en api.service.ts  por :  'http://localhost:8000/api'
+
+![imagen](meanstack.png)
 
 Step by step article on [Angular 8 MEAN Stack Tutorial – Build CRUD App with Angular Material 8](https://www.positronx.io/angular-8-mean-stack-tutorial-build-crud-angular-material/)
 
